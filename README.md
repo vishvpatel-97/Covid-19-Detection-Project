@@ -5,3 +5,5 @@
 ## Covid-19 Detection
 
 ![](https://github.com/vishvpatel-97/Covid-19-Detection-Project/blob/main/images/covid19.gif)
+
+[WEB App link](
