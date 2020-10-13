@@ -26,3 +26,4 @@ To build a CNN (image classification) model for detecting COVID-19 and create a 
 
 ## Loss:
 
+<img src="https://github.com/vishvpatel-97/Covid-19-Detection-Project/blob/main/images/loss.png" width=500, height=400>
