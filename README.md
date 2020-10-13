@@ -6,4 +6,4 @@
 
 ![](https://github.com/vishvpatel-97/Covid-19-Detection-Project/blob/main/images/covid19.gif)
 
-[WEB App link](
+[WEB App link](https://covid19-xray-detection.herokuapp.com/)
