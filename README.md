@@ -11,4 +11,8 @@
 
 To build a CNN (image classification) model for detecting COVID-19 and create a complete end to end Project.
 
+## X-ray Dataset:
+Dataset of X-ray Images are taken from Kaggle.
+
+
 
