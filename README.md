@@ -22,7 +22,7 @@ To build a CNN (image classification) model for detecting COVID-19 and create a 
 
 ## Accuracy:
 
-
+<img src="https://github.com/vishvpatel-97/Covid-19-Detection-Project/blob/main/images/AccVal_acc.png" width=600, height=400>
 
 ## Loss:
 
